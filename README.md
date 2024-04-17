@@ -13,7 +13,7 @@ Codies is a coding forum inspired by platforms like Stack Overflow and Quora. It
 1. Download and install XAMPP from the [official website](https://www.apachefriends.org/index.html).
 2. Clone this repository into your XAMPP's `htdocs` directory.
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/robinxoxo/coding-forum
     ```
 3. Start XAMPP and ensure that Apache and MySQL services are running.
 4. Import the provided MySQL database file into your MySQL database.
