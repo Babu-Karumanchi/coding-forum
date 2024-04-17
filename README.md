@@ -31,6 +31,7 @@ Codies is a coding forum inspired by platforms like Stack Overflow and Quora. It
 - Bootstrap
 - jQuery
 - JavaScript
+- CSS
 
 ## Contributors
 - Babu Karumanchi - Project owner and developer
